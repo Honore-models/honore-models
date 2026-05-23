@@ -33,15 +33,6 @@ me.say_hi()
 
 ---
 
-## 🧠 Neural Network Training
-
-<div align="center">
-
-> Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
-
-<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
-
-</div>
 
 ---
 
@@ -132,7 +123,7 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-profile-trophy.vercel.app/?username=hon-mind&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
 
@@ -193,6 +184,17 @@ me.say_hi()
 </div>
 
 <div align="center">
+
+## 🧠 Neural Network Training
+
+<div align="center">
+
+> Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
+
+<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
