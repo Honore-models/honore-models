@@ -181,7 +181,7 @@ me.say_hi()
 
 > Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
 
-<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
+<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="500" alt="Neural Network Training Animation"/>
 
 </div>
 
