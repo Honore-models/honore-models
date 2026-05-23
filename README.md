@@ -6,7 +6,16 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
 
+<!-- Visitor Counter -->
+<img src="https://visitcount.itsvg.in/api?id=hon-mind&label=Visitor%20Count&color=1&icon=5&pretty=true" alt="Visitor Count"/>
+
 <br/>
+
+![GitHub followers](https://img.shields.io/github/followers/hon-mind?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/hon-mind?style=for-the-badge&color=3fb950&labelColor=0d1117&label=STARS)
+
+</div>
+
 ---
 
 ## 🧬 About Me
@@ -32,27 +41,22 @@ me.say_hi()
 
 ---
 
+## 🧠 Neural Network Training
+
+<div align="center">
+
+> Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
+
+<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🤖 AI / Machine Learning
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />
-</div>
 ### ⚡ Core & Backend
 
 <div align="center">
@@ -77,6 +81,21 @@ me.say_hi()
 
 <br/>
 
+### 🤖 AI / Machine Learning
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />
+</div>
 
 <br/>
 
@@ -104,18 +123,15 @@ me.say_hi()
 
 <div align="center">
 
-<!-- ✅ Using vercel-hosted stats with correct username -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hon-mind&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=10"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hon-mind&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
 
 <br/>
 
-<!-- ✅ Streak stats — correct domain -->
 <img src="https://streak-stats.demolab.com/?user=hon-mind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
 
-<!-- ✅ Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hon-mind&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&radius=8" width="98%" alt="Contribution Graph"/>
 
 </div>
@@ -136,17 +152,13 @@ me.say_hi()
 
 <div align="center">
 
-<!-- ✅ NOTE: Run the GitHub Action below first to generate this SVG.
-     Until then, a working placeholder activity chart is shown. -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!-- ✅ Fallback: always-visible contribution chart while snake isn't generated yet -->
-<img src="https://ghchart.rshah.org/58a6ff/hon-mind" alt="hon-mind's Github Contribution Chart" />
+<img src="https://ghchart.rshah.org/58a6ff/hon-mind" alt="hon-mind's Github Contribution Chart"/>
 
 </div>
 
@@ -195,16 +207,6 @@ me.say_hi()
 
 ---
 
-## 🧠 Neural Network Training
-
-<div align="center">
-
-> Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
-
-<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
-
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -218,12 +220,12 @@ me.say_hi()
 
 ---
 
-## ⚙️ Setup Guide — Make Everything Appear
+## ⚙️ Setup Guide
 
 <details>
-<summary>📋 Click to expand — fix broken items step by step</summary>
+<summary>📋 Click to expand — activate all animations</summary>
 
-### 1. 🐍 Snake Animation (currently broken until this runs)
+### 1. 🐍 Snake Animation
 Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
@@ -249,6 +251,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
 Then go to **Actions → Generate Snake Animation → Run workflow** manually once.
 
 ### 2. ✅ Visitor Counter
@@ -257,11 +260,11 @@ No setup — `visitcount.itsvg.in` loads instantly, no account needed.
 ### 3. ✅ Stats & Streak Cards
 Auto-load from GitHub. If your repo is private or new, stats may show zeros — that's normal.
 
-### 4. ✅ Neural Network GIFs
-Hosted on GitHub's CDN (user-images.githubusercontent.com) — loads reliably everywhere.
+### 4. ✅ Neural Network GIF
+Self-host by uploading `neural-network.gif` directly to your profile repo for guaranteed loading.
 
-### 5. ✅ Skill Badges
-Now using `shields.io` with `for-the-badge` style — renders on all platforms without CORS issues.
+### 5. ✅ Skill Icons
+Using `devicons` via jsDelivr CDN — renders reliably on all platforms.
 
 </details>
 
