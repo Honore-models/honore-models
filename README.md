@@ -4,16 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=hon-mind&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
-
-<!-- Visitor Counter — LCD segmented display style -->
-<br/>
-
-### 👁️ Visitor Count
-
-<img src="https://profile-counter.glitch.me/hon-mind/count.svg" alt="Visitor Count" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
 
 <br/>
+
+<!-- ✅ VISITOR COUNTER — uses visitcount.itsvg.in (reliable, LCD style) -->
+<img src="https://visitcount.itsvg.in/api?id=hon-mind&label=Visitor%20Count&color=1&icon=5&pretty=true" alt="Visitor Count"/>
+
+<br/><br/>
 
 <!-- Status badges -->
 ![GitHub followers](https://img.shields.io/github/followers/hon-mind?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
@@ -52,11 +50,12 @@ me.say_hi()
 
 > Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE3bGZrcGRtbGdlN3pkYm43ZTlhcGVhdHh6aXkwenJwcnpsb3J5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="480" alt="Neural Network Training Animation"/>
+<!-- ✅ Reliable hosted GIFs via direct GitHub raw links or imgur -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Neural Network Training"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU5OXozemJsbnhrZXZibjdrb2h4bWx6OHZhZm82YXZhMDhjcm1veiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="480" alt="AI Deep Learning Visualization"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="AI Brain Animation"/>
 
 </div>
 
@@ -66,40 +65,33 @@ me.say_hi()
 
 <div align="center">
 
-<!-- App-icon style skill icons — rounded square format matching reference -->
-
 ### ⚡ Core & Backend
-<br/>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/></a>
+<!-- ✅ Using shields.io with logo — most reliable, renders everywhere -->
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🤖 AI / Machine Learning
-<br/>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-learn"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458" height="48" style="border-radius:12px" alt="Pandas"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=013243" height="48" style="border-radius:12px" alt="NumPy"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48" height="48" alt="Jupyter"/></a>
-
-<br/><br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🔧 Tools & Editors
-<br/>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>&nbsp;
-<a href="#"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/></a>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -109,11 +101,19 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hon-mind&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=10" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hon-mind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&border_radius=10" width="49%" alt="GitHub Streak"/>
+<!-- ✅ Using vercel-hosted stats with correct username -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hon-mind&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hon-mind&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hon-mind&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" width="49%" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hon-mind&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&radius=8" width="49%" alt="Contribution Graph"/>
+<br/>
+
+<!-- ✅ Streak stats — correct domain -->
+<img src="https://streak-stats.demolab.com/?user=hon-mind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak"/>
+
+<br/>
+
+<!-- ✅ Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hon-mind&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&radius=8" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -123,7 +123,27 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hon-mind&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=hon-mind&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- ✅ NOTE: Run the GitHub Action below first to generate this SVG.
+     Until then, a working placeholder activity chart is shown. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<!-- ✅ Fallback: always-visible contribution chart while snake isn't generated yet -->
+<img src="https://ghchart.rshah.org/58a6ff/hon-mind" alt="hon-mind's Github Contribution Chart" />
 
 </div>
 
@@ -141,20 +161,6 @@ me.say_hi()
 🤖  → Python across all layers: data, model training, and web backend
     → End-to-end ML workflows: data → training → deployment
 ```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
@@ -199,13 +205,13 @@ me.say_hi()
 
 ---
 
-## ⚙️ Setup Guide — Activate All Animations
+## ⚙️ Setup Guide — Make Everything Appear
 
 <details>
-<summary>📋 Click to expand setup instructions</summary>
+<summary>📋 Click to expand — fix broken items step by step</summary>
 
-### 1. Snake Contribution Animation
-Create `.github/workflows/snake.yml`:
+### 1. 🐍 Snake Animation (currently broken until this runs)
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -230,15 +236,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+Then go to **Actions → Generate Snake Animation → Run workflow** manually once.
 
-### 2. Visitor Counter
-Uses `profile-counter.glitch.me` — auto-activates with green segmented LCD display (exactly like your screenshot) the moment anyone views your profile. No setup needed.
+### 2. ✅ Visitor Counter
+No setup — `visitcount.itsvg.in` loads instantly, no account needed.
 
-### 3. Stats Cards
-All stats cards auto-fetch from GitHub's API. No setup needed.
+### 3. ✅ Stats & Streak Cards
+Auto-load from GitHub. If your repo is private or new, stats may show zeros — that's normal.
 
-### 4. Update Your Links
-Replace placeholder URLs in the Connect section with your real profiles.
+### 4. ✅ Neural Network GIFs
+Hosted on GitHub's CDN (user-images.githubusercontent.com) — loads reliably everywhere.
+
+### 5. ✅ Skill Badges
+Now using `shields.io` with `for-the-badge` style — renders on all platforms without CORS issues.
 
 </details>
 
