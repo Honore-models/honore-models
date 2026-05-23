@@ -1,100 +1,88 @@
-<h1 align="center">Building Intelligent Systems with AI</h1>
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Python+Developer;Cybersecurity+Learner;Building+Intelligent+Systems" />
+</p>
 
-###
+---
 
-<p align="center">I am Honore</p>
+# 👋 Hi, I'm TopGun
 
-###
+## 🤖 About Me
+I am a student passionate about **Artificial Intelligence**, **Software Development**, and **Cybersecurity**.  
+I enjoy building intelligent systems using **Python 🐍**, exploring machine learning 🧠, and improving digital security 🔐.
 
-<h2 align="center">About me</h2>
+I focus on learning by building real-world projects and continuously improving my technical skills.
 
-###
+---
 
-<p align="left">I am a student focused on Artificial Intelligence 🤖, software development , and cybersecurity 🔐. I enjoy building practical solutions using Python 🐍, data analysis , and machine learning .<br><br>I am continuously improving my skills in intelligent systems, secure software design 🛡️, and real-world problem solving 🎯 through hands-on projects and learning.<br><br>My goal is to develop impactful technologies that combine AI and security to solve meaningful problems 🚀.</p>
+## 🚀 Tech Stack
 
-###
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-00D1FF?style=for-the-badge&logo=python&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-00FF88?style=for-the-badge)
 
-<h2 align="left">I code with</h2>
+### 💻 Development
+![Python](https://img.shields.io/badge/Python-00D1FF?style=for-the-badge&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-###
+### 🔐 Cybersecurity
+![Security](https://img.shields.io/badge/Cybersecurity-FF0040?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
 
-<h3 align="left">Connect with me on</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=topgun-hon&show_icons=true&theme=tokyonight" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=topgun-hon&theme=tokyonight" />
+</p>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+---
 
-###
+## 🧠 Currently Learning
+- Deep Learning (Neural Networks)
+- AI for Cybersecurity
+- API Development with Python
+- Ethical Hacking fundamentals
 
-<p align="left">Building intelligent systems 🧬using machine learning, data analysis, and modern AI tools to solve real-world problems.</p>
+---
 
-###
+## 🎯 Goals
+- Build real-world AI projects 🚀
+- Contribute to open-source 💡
+- Improve cybersecurity skills 🔐
+- Become an AI engineer 🧠
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/topgun-hon/topgun-hon/stats-output/stats.svg" height="100" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/topgun-hon/topgun-hon/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=topgun-hon&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=15&order=3" height="100" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/topgun-hon/topgun-hon/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/topgun-hon">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/topgun-hon/topgun-hon/snake-output/snake.svg" alt="Snake animation" />
+## ⚡ AI Animation
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=topgun-hon.topgun-hon&left_color=green&right_color=forestgreen"  />
-</div>
+---
 
-###
+## 💡 Quote
+> “The future belongs to those who build intelligent systems today.”
 
-<div align="center">
-  <img height="300" src="https://media.tenor.com/1eWXZM5U0BEAAAAM/neural-network.gif"  />
-</div>
+---
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Always%20learning,%20always%20improving,%20and%20always%20building.&fontSize=18&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
+<p align="center">
+  🚀 Always learning. Always building. Always improving.
+</p>
