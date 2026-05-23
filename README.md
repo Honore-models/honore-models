@@ -192,30 +192,6 @@ me.say_hi()
 
 </div>
 
----
-
-## ⚙️ Setup Guide
-
-<details>
-
-Then go to **Actions → Generate Snake Animation → Run workflow** manually once.
-
-### 2. ✅ Visitor Counter
-No setup — `visitcount.itsvg.in` loads instantly, no account needed.
-
-### 3. ✅ Stats & Streak Cards
-Auto-load from GitHub. If your repo is private or new, stats may show zeros — that's normal.
-
-### 4. ✅ Neural Network GIF
-Self-host by uploading `neural-network.gif` directly to your profile repo for guaranteed loading.
-
-### 5. ✅ Skill Icons
-Using `devicons` via jsDelivr CDN — renders reliably on all platforms.
-
-</details>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
