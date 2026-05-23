@@ -4,15 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=hon-mind&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
-
-<!-- Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=hon-mind&label=Visitor%20Count&color=1&icon=5&pretty=true" alt="Visitor Count"/>
-
-<br/>
-
-![GitHub followers](https://img.shields.io/github/followers/hon-mind?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/hon-mind?style=for-the-badge&color=3fb950&labelColor=0d1117&label=STARS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn)](https://git.io/typing-svg)
 
 </div>
 
@@ -205,34 +197,6 @@ me.say_hi()
 ## ⚙️ Setup Guide
 
 <details>
-<summary>📋 Click to expand — activate all animations</summary>
-
-### 1. 🐍 Snake Animation
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: hon-mind
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 Then go to **Actions → Generate Snake Animation → Run workflow** manually once.
 
