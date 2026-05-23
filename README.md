@@ -31,11 +31,6 @@ me = HonMind()
 me.say_hi()
 ```
 
----
-
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -105,10 +100,6 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hon-mind&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hon-mind&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=hon-mind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak"/>
