@@ -100,7 +100,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=hon-mind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=honore-models&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
 
